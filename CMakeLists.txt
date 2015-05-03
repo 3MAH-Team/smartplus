@@ -1,11 +1,11 @@
 # CMakeLists.txt
 
-cmake_minimum_required(VERSION 3.0.2)
+cmake_minimum_required(VERSION 2.6)
 project(smartplus)
 
 # The version number
-set(VERSION_MAJOR 1)
-set(VERSION_MINOR 0)
+set(VERSION_MAJOR 0)
+set(VERSION_MINOR 9)
 set(VERSION_PATCH 0)
 
 if(VERSION_PATCH MATCHES "0")

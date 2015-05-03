@@ -23,7 +23,7 @@
 #include <smartplus/Umat/Thermomechanical/Elasticity/elastic_isotropic.hpp>
 
 #include <smartplus/Micromechanics/Mori_Tanaka/Mori_Tanaka.hpp>
-#include <smartplus/Micromechanics/Periodic_Layer/Periodic_layer.hpp>
+#include <smartplus/Micromechanics/Periodic_Layer/Periodic_Layer.hpp>
 #include <smartplus/Micromechanics/Self_Consistent/Self_Consistent.hpp>
 
 using namespace std;

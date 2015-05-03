@@ -23,6 +23,7 @@
 #include <iostream>
 #include <armadillo>
 #include "step.hpp"
+#include <memory>
 
 using namespace std;
 using namespace arma;

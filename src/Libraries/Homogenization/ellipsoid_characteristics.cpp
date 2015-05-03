@@ -27,7 +27,7 @@
 #include <smartplus/Libraries/Homogenization/phase_characteristics.hpp>
 #include <smartplus/Libraries/Homogenization/ellipsoid_characteristics.hpp>
 #include <smartplus/Libraries/Maths/rotation.hpp>
-#include <smartplus/Libraries/Homogenization/Eshelby.hpp>
+#include <smartplus/Libraries/Homogenization/eshelby.hpp>
 
 using namespace std;
 using namespace arma;

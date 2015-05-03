@@ -22,7 +22,7 @@
 
 #include <math.h>
 #include <armadillo>
-#include <smartplus/Libraries/Homogenization/Eshelby.hpp>
+#include <smartplus/Libraries/Homogenization/eshelby.hpp>
 #include <smartplus/parameter.hpp>
 
 using namespace std;
