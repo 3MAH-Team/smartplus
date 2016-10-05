@@ -4,6 +4,7 @@ smartplus
 
 
 [![GitHub license](https://img.shields.io/badge/licence-GPL%203-blue.svg)](https://github.com/smartplus-team/smartplus/blob/master/LICENSE.txt)
+[![Build Status](https://travis-ci.org/abetlen/smartplus.svg?branch=master)](https://travis-ci.org/abetlen/smartplus)
 
 About
 -----
