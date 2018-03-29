@@ -1,0 +1,10 @@
+sudo: required
+
+language: cpp
+
+services:
+    - docker
+
+script:
+    - docker build .
+    - docker run -d -p 127.0.0.1:80:4567 chemiskyy/smartplus-stack
